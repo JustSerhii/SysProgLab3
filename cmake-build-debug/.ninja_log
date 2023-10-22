@@ -1,0 +1,17 @@
+# ninja log v5
+4	3684	7197049182372164	CMakeFiles/sysproglab3test.dir/main.cpp.obj	402723ec679d3194
+3684	5027	7197049195843211	sysproglab3test.exe	c317a240dc2c3b9a
+4	3713	7197050527877299	CMakeFiles/sysproglab3test.dir/main.cpp.obj	402723ec679d3194
+3714	4966	7197050540406551	sysproglab3test.exe	c317a240dc2c3b9a
+3	3183	7197052660079128	CMakeFiles/sysproglab3test.dir/main.cpp.obj	402723ec679d3194
+3183	4484	7197052673113522	sysproglab3test.exe	c317a240dc2c3b9a
+2	3740	7197053664919850	CMakeFiles/sysproglab3test.dir/main.cpp.obj	402723ec679d3194
+3741	4935	7197053676918994	sysproglab3test.exe	c317a240dc2c3b9a
+3	3017	7197054264017854	CMakeFiles/sysproglab3test.dir/main.cpp.obj	402723ec679d3194
+3018	4207	7197054275947832	sysproglab3test.exe	c317a240dc2c3b9a
+2	3181	7197077791382892	CMakeFiles/sysproglab3test.dir/main.cpp.obj	402723ec679d3194
+3181	4448	7197077804091952	sysproglab3test.exe	c317a240dc2c3b9a
+5	3341	7197106246560177	CMakeFiles/sysproglab3test.dir/main.cpp.obj	402723ec679d3194
+3342	4710	7197106260258133	sysproglab3test.exe	c317a240dc2c3b9a
+3	3407	7197106803363741	CMakeFiles/sysproglab3test.dir/main.cpp.obj	402723ec679d3194
+3407	4773	7197106817030676	sysproglab3test.exe	c317a240dc2c3b9a
